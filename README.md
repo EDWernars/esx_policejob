@@ -4,9 +4,10 @@
 * Auto mode
   * [esx_billing](https://github.com/FXServer-ESX/fxserver-esx_billing)
 
-* Player management (boss actions and armory with buyable weapons)
+* Player management (boss actions and armory with buyable weapons and jobcars)
   * [esx_society](https://github.com/FXServer-ESX/fxserver-esx_society)
   * [esx_datastore](https://github.com/FXServer-ESX/fxserver-esx_datastore)
+  * [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 
 * ESX Identity Support
   * [esx_identity](https://github.com/ESX-Org/esx_identity)
